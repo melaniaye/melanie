@@ -1,8 +1,6 @@
 name: eX-code_UMBL
- 
-on: [workflow_dispatch]
- 
-jobs:
+ on: [workflow_dispatch]
+ jobs:
   build:
     name: eX-code_UMBL
     runs-on: windows-latest
